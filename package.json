@@ -1,0 +1,22 @@
+{
+  "name": "commanderDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "cr": "cder.js"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
